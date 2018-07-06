@@ -1,0 +1,6 @@
+c:\users\sudipta\documents\visual studio 2017\Projects\SerialPortReader\SerialPortReader\bin\Debug\SerialPortReader.exe.config
+c:\users\sudipta\documents\visual studio 2017\Projects\SerialPortReader\SerialPortReader\bin\Debug\SerialPortReader.exe
+c:\users\sudipta\documents\visual studio 2017\Projects\SerialPortReader\SerialPortReader\bin\Debug\SerialPortReader.pdb
+c:\users\sudipta\documents\visual studio 2017\Projects\SerialPortReader\SerialPortReader\obj\Debug\SerialPortReader.csprojResolveAssemblyReference.cache
+c:\users\sudipta\documents\visual studio 2017\Projects\SerialPortReader\SerialPortReader\obj\Debug\SerialPortReader.exe
+c:\users\sudipta\documents\visual studio 2017\Projects\SerialPortReader\SerialPortReader\obj\Debug\SerialPortReader.pdb
