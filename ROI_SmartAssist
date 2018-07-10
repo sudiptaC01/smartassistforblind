@@ -18,8 +18,8 @@ ROI = (Profit/Investment)*100 = (200/2300)*100 = 8.70%
 
 3) ROI for (Smart Cap + Smart Shoe):
 Two clubbed together:
-Total Investment = 2700 + 2300 = 5000
+Total Investment = 2700 + 2300 - 100 (delivery cost)  = 4900
 Total Sell Price = 3000 + 2500 = 5500
-Total Profit = (5500 - 5000) = 500
+Total Profit = (5500 - 4900) = 600
 
-Total ROI = (Total Profit/Total Investment)*100 = (500/5000)*100 = 10%
+Total ROI = (Total Profit/Total Investment)*100 = (600/4900)*100 = 12.25%
